@@ -1,6 +1,6 @@
 "use client"
 
-import Search from "@/app/ui/dashboard/search/page"
+import Search from "@/app/ui/dashboard/search/search"
 import styles from "@/app/ui/dashboard/signals/signal.module.css"
 import Link from "next/link"
 import Pagination from "@/app/ui/dashboard/pagination/pagination"
